@@ -7,7 +7,7 @@
     <ignored path="SoboTwit.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="b498e758-64f4-4d1e-81dd-496181b0518c" time="1382904591626" ignored="false" />
-    <file path="/Dummy.txt" changelist="b498e758-64f4-4d1e-81dd-496181b0518c" time="1382993817070" ignored="false" />
+    <file path="/Dummy.txt" changelist="b498e758-64f4-4d1e-81dd-496181b0518c" time="1382994296620" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +375,11 @@
       <created>1382993821091</created>
       <updated>1382993821091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first">
+      <created>1382994300614</created>
+      <updated>1382994300614</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
